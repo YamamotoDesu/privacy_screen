@@ -1,4 +1,4 @@
-# privacy_screen
+# [privacy_screen](https://articles.wesionary.team/securing-your-flutter-app-implementing-a-privacy-screen-61383ce09f0a)
 <img width="300" alt="image" src="https://github.com/YamamotoDesu/privacy_screen/assets/47273077/be9f5d81-308e-42e4-a1c0-a7443f4490ea">
 
 AppDelegate.swift
